@@ -73,17 +73,13 @@ label {
 	padding: 20px 0;
 }
 
-
-.thumbnail {
-	padding: 0;
-	border-radius: 0;
-	border: none;
-	background: none;
-	color: #fff;
+.card-text{
+    color: #ffffff;
+    background: #4aaaa5;
+    text-align: center;
 }
 
-.thumbnail .caption {
-	padding: 8px;
+.card-body{
+    background:#4aaaa5;
+    margin-bottom:10px;
 }
-
-
